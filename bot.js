@@ -8,7 +8,7 @@ const app = express();
 app.use(express.json());
 
 // Mini App URL
-const MINI_APP_URL = 'https://yourdomain.com/miniapp';
+const MINI_APP_URL = 'https://husanboy832.github.io/shuxrat-cinema-app/';
 
 // Start command
 bot.onText(/\/start/, (msg) => {
